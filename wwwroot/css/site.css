@@ -1,0 +1,18 @@
+
+body{
+    background-color:beige;
+}
+
+nav {
+    background-color: #40916c;
+}
+
+.navbar-brand{
+    color:white
+}
+
+a {
+    background-color: #40916c;
+    color:white;
+}
+
